@@ -1,6 +1,7 @@
 # House prices: advanced regression techniques
 <br>
-__This repository contains a notebook describing the data processing and machine learning steps for predicting the sale price of houses based on 79 variables.__ <br><br>
+
+This repository contains a notebook describing the data processing and machine learning steps for predicting the sale price of houses based on 79 variables. <br>
 
 Train and test data come from Kaggle.com, in the "House prices: advanced regression techniques" competition. <br>
 <br>
